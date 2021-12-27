@@ -4,7 +4,7 @@ title: "My Projects"
 permalink: /projects/
 ---
 
-I've developed some projects on my own...
+I've developed some projects on my own...   
 [Illusion](https://linuszheng.github.io/illusion/)  
 Morsenger
 
