@@ -9,7 +9,7 @@ permalink: /projects/
 [Illusion](https://linuszheng.github.io/illusion/)   
 Morsenger ([src](https://github.com/linuszheng/MORSEnger))     
 Speed Scrobble ([src](https://github.com/linuszheng/speed-scrobble))       
-SpOWOtify ([src](https://github.com/linuszheng/spowotify))
+Spowotify ([src](https://github.com/linuszheng/spowotify))
 
 
 ### team
