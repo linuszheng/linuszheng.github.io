@@ -4,10 +4,11 @@ title: "My Projects"
 permalink: /projects/
 ---
 
-### me
+### ---
 
 [Illusion](https://linuszheng.github.io/illusion/)   
 Morsenger ([src](https://github.com/linuszheng/MORSEnger))
+Speed Scrobble ([src](https://github.com/linuszheng/speed-scrobble))
 
 
 ### team
