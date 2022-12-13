@@ -18,6 +18,6 @@ MARx (Medical Assistant Rx) ([src](https://github.com/RohanViswanathan/HealthHac
 EpidermEye ([src](https://github.com/RohanViswanathan/QuestHack))  
 Homeroom ([src](https://github.com/BK1031/Homeroom))  
 QKD (Quantum Key Distribution) ([src](https://github.com/linuszheng/quantum-key-distribution))    
-Bythoven ([src](https://github.com/linuszheng/bythoven))       
+Bythoven (CS 429H) ([src](https://github.com/linuszheng/bythoven))       
 eMuter ([src](https://github.com/jamesouyang2003/hacktx21))
-
+Dynamic Linker (CS 439H) ([src](https://gitlab.com/ameyer1024/cs439t-final-project))
