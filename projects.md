@@ -6,7 +6,7 @@ permalink: /projects/
 
 ### individual
 
-[Illusion](https://linuszheng.github.io/illusion/)   
+[Illusion](https://linuszheng.github.io/illusion/) ([src](https://github.com/linuszheng/illusion))   
 Morsenger ([src](https://github.com/linuszheng/MORSEnger))     
 Speed-Scrobble ([src](https://github.com/linuszheng/speed-scrobble))       
 Spowotify ([src](https://github.com/linuszheng/spowotify))
