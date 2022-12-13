@@ -4,7 +4,7 @@ title: "My Projects"
 permalink: /projects/
 ---
 
-### ---
+### individual
 
 [Illusion](https://linuszheng.github.io/illusion/)   
 Morsenger ([src](https://github.com/linuszheng/MORSEnger))     
