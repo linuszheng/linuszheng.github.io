@@ -1,2 +1,2 @@
 
-Hi, I'm Linus, a current undergraduate Computer Science and Mathematics major and Turing Scholar at UT Austin. I like to build new things. You can take a look at some of the things I've built [here](https://linuszheng.github.io/projects/).
+Hi, I'm Linus, a current Computer Science PhD candidate at UT Austin. I'm interested in creating tools for programmers to make difficult and error-prone coding tasks into simple ones. You can see some of my old projects [here](https://linuszheng.github.io/projects/).
