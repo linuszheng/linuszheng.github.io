@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 [Illusion](https://linuszheng.github.io/illusion/) ([src](https://github.com/linuszheng/illusion))   
-[The I-35 Project](https://linuszheng.github.io/highway/)
+[The I-35 Project](https://linuszheng.github.io/highway/)     
 Morsenger ([src](https://github.com/linuszheng/MORSEnger))     
 MARx (Medical Assistant Rx) ([src](https://github.com/RohanViswanathan/HealthHack))  
 EpidermEye ([src](https://github.com/RohanViswanathan/QuestHack))  
