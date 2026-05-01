@@ -5,6 +5,7 @@ permalink: /highway/
 nav_exclude: true
 ---
 
+
 <style>
 .gallery {
   display: grid;
@@ -22,13 +23,13 @@ nav_exclude: true
 /* helpers */
 .landscape { 
   aspect-ratio: 3 / 2;   
-  grid-column: span 2; 
-  grid-row: span 3;
+  grid-column: span 3; 
+  grid-row: span 2;
   }
 .portrait  { 
   aspect-ratio: 2 / 3; 
-  grid-column: span 3; 
-  grid-row: span 2;
+  grid-column: span 2; 
+  grid-row: span 3;
   }
 </style>
 
