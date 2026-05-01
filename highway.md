@@ -1,3 +1,9 @@
+---
+layout: page
+title: "The I-35 Project"
+permalink: /highway/
+---
+
 ![Alt text](./assets/IMG_1352.JPG)
 ![Alt text](./assets/IMG_1353.JPG)
 ![Alt text](./assets/IMG_1355.JPG)
