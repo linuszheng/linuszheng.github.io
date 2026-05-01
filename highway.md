@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "The I-35 Project"
+title: "Project I-35"
 permalink: /highway/
+nav_exclude: true
 ---
 
 ![Alt text](./assets/IMG_1352.JPG)
