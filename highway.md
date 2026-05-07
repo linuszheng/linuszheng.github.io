@@ -76,8 +76,8 @@ permalink: /highway/
   <img src="/assets/26-5-2/IMG_1392.JPG" class="landscape">  
   <img src="/assets/26-5-2/IMG_1412.JPG" class="landscape">  
 
-  <img src="/assets/26-5-2/IMG_1394.JPG" class="landscape">  
   <img src="/assets/26-5-2/IMG_1397.JPG" class="landscape">  
+  <img src="/assets/26-5-2/IMG_1413.JPG" class="landscape">  
 
   <img src="/assets/26-5-2/IMG_1403.JPG" class="landscape">  
   <img src="/assets/26-5-2/IMG_1404.JPG" class="landscape">  
@@ -85,8 +85,6 @@ permalink: /highway/
   <img src="/assets/26-5-2/IMG_1407.JPG" class="landscape">  
   <img src="/assets/26-5-2/IMG_1409.JPG" class="landscape">  
 
-  <img src="/assets/26-5-2/IMG_1393.JPG" class="landscape">  
-  <img src="/assets/26-5-2/IMG_1413.JPG" class="landscape">  
 
   <img src="/assets/26-5-2/IMG_1417.JPG" class="landscape">  
   <img src="/assets/26-5-2/IMG_1416.JPG" class="landscape">  
