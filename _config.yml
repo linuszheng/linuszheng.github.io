@@ -2,3 +2,6 @@ baseurl: /
 url: https://linuszheng.github.io
 
 theme: minima
+
+header_pages:
+  - projects.md
