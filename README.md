@@ -1,7 +1,7 @@
 <style>
 
 img {
-  width: 120px;
+  width: 170px;
 }
 
 </style>
@@ -12,4 +12,6 @@ I'm Linus, a PhD student in Computer Science at UT Austin working with Professor
 If you are interested in discussing one of my projects, or want to talk about programming languages, program synthesis, or formal methods, you can reach me at `linusjz [at] utexas [dot] edu`.
 
 <br>
+<p align="center">
 <img src="/assets/home/IMG_3271.JPG" loading="lazy" decoding="async">
+</p>
