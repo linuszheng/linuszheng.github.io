@@ -4,6 +4,20 @@ title: "My Projects"
 permalink: /projects/
 ---
 
+<style>
+  a {
+  color: #309561;
+}
+
+a:hover {
+  color: #309561;
+}
+
+a:visited {
+  color: #309561;
+}
+</style>
+
 [Illusion](https://linuszheng.github.io/illusion/) ([src](https://github.com/linuszheng/illusion))   
 Morsenger ([src](https://github.com/linuszheng/MORSEnger))     
 MARx (Medical Assistant Rx) ([src](https://github.com/RohanViswanathan/HealthHack))  
