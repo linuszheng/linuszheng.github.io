@@ -2,6 +2,20 @@
 
 img {
   width: 170px;
+  border: solid #309561 2px;
+  border-radius: 5px;
+}
+
+a {
+  color: #309561;
+}
+
+a:hover {
+  color: #309561;
+}
+
+a:visited {
+  color: #309561;
 }
 
 </style>
