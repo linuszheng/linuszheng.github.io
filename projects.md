@@ -4,6 +4,8 @@ title: "My Projects"
 permalink: /projects/
 ---
 
+<script defer src="https://cloud.umami.is/script.js" data-website-id="fe52e582-9b13-459f-8399-a892804bdda2"></script>
+
 <style>
   a {
   color: #309561;
