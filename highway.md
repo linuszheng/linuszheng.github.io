@@ -31,7 +31,7 @@ permalink: /highway/
 </style>
 
 
-# 4/29
+# 04/29/2026
 
 <div class="gallery">
 
@@ -64,7 +64,7 @@ permalink: /highway/
 
 <br>
 
-# 5/2
+# 05/02/2026
 
 
 <div class="gallery">
@@ -85,10 +85,49 @@ permalink: /highway/
   <img src="/assets/26-5-2/IMG_1407.JPG" class="landscape" loading="lazy" decoding="async">  
   <img src="/assets/26-5-2/IMG_1409.JPG" class="landscape" loading="lazy" decoding="async">  
 
-
   <img src="/assets/26-5-2/IMG_1417.JPG" class="landscape" loading="lazy" decoding="async">  
   <img src="/assets/26-5-2/IMG_1416.JPG" class="landscape" loading="lazy" decoding="async">  
 
 
 </div>
 
+
+<br>
+
+# 11/13/2026
+
+
+<div class="gallery">
+
+  <img src="/assets/26-11-13/IMG_3716.JPG" class="portrait" loading="lazy" decoding="async">  
+  <img src="/assets/26-11-13/IMG_3643.JPG" class="portrait" loading="lazy" decoding="async">  
+  <img src="/assets/26-11-13/IMG_3665.JPG" class="portrait" loading="lazy" decoding="async">  
+
+  <img src="/assets/26-11-13/IMG_3646.JPG" class="landscape" loading="lazy" decoding="async">  
+  <img src="/assets/26-11-13/IMG_3692.JPG" class="landscape" loading="lazy" decoding="async">  
+
+  <img src="/assets/26-11-13/IMG_3648.JPG" class="landscape" loading="lazy" decoding="async">  
+  <img src="/assets/26-11-13/IMG_3687.JPG" class="landscape" loading="lazy" decoding="async">  
+
+  <img src="/assets/26-11-13/IMG_3653.JPG" class="portrait" loading="lazy" decoding="async">  
+  <img src="/assets/26-11-13/IMG_3690.JPG" class="portrait" loading="lazy" decoding="async">  
+  <img src="/assets/26-11-13/IMG_3644.JPG" class="portrait" loading="lazy" decoding="async">  
+
+  <img src="/assets/26-11-13/IMG_3667.JPG" class="landscape" loading="lazy" decoding="async">  
+  <img src="/assets/26-11-13/IMG_3689.JPG" class="landscape" loading="lazy" decoding="async">  
+
+  <img src="/assets/26-11-13/IMG_3696.JPG" class="landscape" loading="lazy" decoding="async">  
+  <img src="/assets/26-11-13/IMG_3642.JPG" class="landscape" loading="lazy" decoding="async">  
+
+  <img src="/assets/26-11-13/IMG_3677.JPG" class="portrait" loading="lazy" decoding="async">  
+  <img src="/assets/26-11-13/IMG_3634.JPG" class="portrait" loading="lazy" decoding="async">  
+  <img src="/assets/26-11-13/IMG_3680.JPG" class="portrait" loading="lazy" decoding="async">  
+
+  <img src="/assets/26-11-13/IMG_3672.JPG" class="landscape" loading="lazy" decoding="async">  
+  <img src="/assets/26-11-13/IMG_3719.JPG" class="landscape" loading="lazy" decoding="async">  
+
+  <img src="/assets/26-11-13/IMG_3699.JPG" class="landscape" loading="lazy" decoding="async">  
+  <img src="/assets/26-11-13/IMG_3640.JPG" class="landscape" loading="lazy" decoding="async">  
+
+
+</div>
