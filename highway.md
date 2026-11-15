@@ -24,12 +24,34 @@ permalink: /highway/
   aspect-ratio: 2 / 3; 
   grid-column: span 2; 
 }
+
+.tabs input { display: none; }
+.tabs label {
+  display: inline-block;
+  padding: 4px 12px;
+  margin-bottom: 12px;
+  border-bottom: 2px solid transparent;
+  cursor: pointer;
+}
+.tabs .gallery { display: none; }
+#d1:checked ~ #p1, #d2:checked ~ #p2, #d3:checked ~ #p3 { display: grid; }
+#d1:checked + label, #d2:checked + label, #d3:checked + label {
+  border-bottom-color: currentColor;
+  font-weight: bold;
+}
 </style>
 
 
-# 04/29/2026
+<div class="tabs">
 
-<div class="gallery">
+<input type="radio" name="day" id="d1">
+<label for="d1">04/29/2026</label>
+<input type="radio" name="day" id="d2">
+<label for="d2">05/02/2026</label>
+<input type="radio" name="day" id="d3" checked>
+<label for="d3">11/13/2026</label>
+
+<div class="gallery" id="p1">
 
   <img src="/assets/26-4-29/IMG_1388.JPG" class="portrait" loading="lazy" decoding="async">  
   <img src="/assets/26-4-29/IMG_1353.JPG" class="portrait" loading="lazy" decoding="async">
@@ -58,12 +80,7 @@ permalink: /highway/
 
 </div>
 
-<br>
-
-# 05/02/2026
-
-
-<div class="gallery">
+<div class="gallery" id="p2">
 
   <img src="/assets/26-5-2/IMG_1395.JPG" class="portrait" loading="lazy" decoding="async">  
   <img src="/assets/26-5-2/IMG_1415.JPG" class="portrait" loading="lazy" decoding="async">  
@@ -87,13 +104,7 @@ permalink: /highway/
 
 </div>
 
-
-<br>
-
-# 11/13/2026
-
-
-<div class="gallery">
+<div class="gallery" id="p3">
 
   <img src="/assets/26-11-13/IMG_3716.JPG" class="portrait" loading="lazy" decoding="async">  
   <img src="/assets/26-11-13/IMG_3643.JPG" class="portrait" loading="lazy" decoding="async">  
@@ -125,5 +136,7 @@ permalink: /highway/
   <img src="/assets/26-11-13/IMG_3699.JPG" class="landscape" loading="lazy" decoding="async">  
   <img src="/assets/26-11-13/IMG_3640.JPG" class="landscape" loading="lazy" decoding="async">  
 
+
+</div>
 
 </div>
