@@ -9,24 +9,20 @@ permalink: /highway/
 .gallery {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
-  grid-auto-rows: 120px;
   gap: 8px;
 }
 
 .gallery img {
   width: 100%;
-  height: 100%;
-  object-fit: cover;
+  height: auto;
 }
 .landscape { 
   aspect-ratio: 3 / 2;   
   grid-column: span 3; 
-  grid-row: span 2;
 }
 .portrait  { 
   aspect-ratio: 2 / 3; 
   grid-column: span 2; 
-  grid-row: span 3;
 }
 </style>
 
