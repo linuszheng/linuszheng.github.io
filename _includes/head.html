@@ -14,9 +14,7 @@
     document.addEventListener("DOMContentLoaded", function () {
       document.querySelectorAll("a[href]").forEach(function (a) {
         if (a.hasAttribute("data-umami-event")) return;
-        a.setAttribute("data-umami-event", a.href.replace(/^https?:\/\//, "").slice(0, 50));
-        a.setAttribute("data-umami-event-text", a.textContent.trim());
-      });
+        a.setAttribute("data-umami-event", a.href.replace(/^https?:\/\//, "").slice(0, 50));      });
     });
   </script>
 </head>

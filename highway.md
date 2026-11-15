@@ -45,11 +45,11 @@ permalink: /highway/
 <div class="tabs">
 
 <input type="radio" name="day" id="d1">
-<label for="d1" data-umami-event="select-exhibit" data-umami-event-day="04/29/2026">04/29/2026</label>
+<label for="d1" data-umami-event="select-exhibit 04/29/2026">04/29/2026</label>
 <input type="radio" name="day" id="d2">
-<label for="d2" data-umami-event="select-exhibit" data-umami-event-day="05/02/2026">05/02/2026</label>
+<label for="d2" data-umami-event="select-exhibit 05/02/2026">05/02/2026</label>
 <input type="radio" name="day" id="d3" checked>
-<label for="d3" data-umami-event="select-exhibit" data-umami-event-day="11/13/2026">11/13/2026</label>
+<label for="d3" data-umami-event="select-exhibit 11/13/2026">11/13/2026</label>
 
 <div class="gallery" id="p1">
 
