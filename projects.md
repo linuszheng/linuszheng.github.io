@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "My Projects"
+title: "Projects"
 permalink: /projects/
 ---
 
@@ -16,14 +16,28 @@ a:hover {
 a:visited {
   color: #309561;
 }
+
+.post-header {
+  display: none;
+}
 </style>
 
-[Illusion](https://linuszheng.github.io/illusion/) ([src](https://github.com/linuszheng/illusion))   
-Morsenger ([src](https://github.com/linuszheng/MORSEnger))     
-MARx (Medical Assistant Rx) ([src](https://github.com/RohanViswanathan/HealthHack))  
-EpidermEye ([src](https://github.com/RohanViswanathan/QuestHack))  
-Homeroom ([src](https://github.com/BK1031/Homeroom))     
-Bythoven (CS 429H) ([src](https://github.com/linuszheng/bythoven))    
-PLUNDER (Probabilistic Program Synthesis for Learning from Unlabeled and Noisy Demonstrations) ([src](https://github.com/ut-amrl/plunder)) ([paper](https://arxiv.org/pdf/2303.01440))    
-INK (Homomorphism Calculus for User-Defined Aggregations) ([src](https://github.com/utopia-group/ink)) ([paper](https://arxiv.org/pdf/2508.15109))    
-[Project I-35](https://linuszheng.github.io/highway/) ([src](https://github.com/linuszheng/linuszheng.github.io/tree/main/assets))    
+### Research Projects
+
+**Rewinding the Fold: Making Stateful Computations Retractable**  
+Ziteng Wang, Linus Zheng, Dixin Tang, and Isil Dillig  
+POPL 2027
+
+**Homomorphism Calculus for User-Defined Aggregations**  
+Ziteng Wang, Ruijie Fang, Linus Zheng, Dixin Tang, and Işıl Dillig  
+OOPSLA 2025 \[[doi](https://doi.org/10.1145/3763072)\] \[[pdf](https://arxiv.org/pdf/2508.15109)\]
+
+**Programmatic Imitation Learning from Unlabeled and Noisy Demonstrations**  
+Jimmy Xin, Linus Zheng, Kia Rahmani, Jiayi Wei, Jarrett Holtz, Isil Dillig, and Joydeep Biswas  
+RA-L 2024 \[[doi](https://doi.org/10.1109/LRA.2024.3385691)\] \[[pdf](https://arxiv.org/pdf/2303.01440)\]
+
+### Personal Projects
+
+**Illusion** \[[site](https://linuszheng.github.io/illusion/)\]
+
+**Project I-35** \[[site](https://linuszheng.github.io/highway/)\]
